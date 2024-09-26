@@ -3,3 +3,5 @@
 # projectnaam: leren werken met Github
 
 ## beschrijving
+dit project bevat een eenvoudige webpaigina met een tabel van fictieve personen en een ongeordede lijst met hobby's.
+het project bevat ook een css bestand voor de opmaak van de pagina.
